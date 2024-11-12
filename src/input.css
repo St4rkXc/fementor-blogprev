@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+    .badge{
+        @apply bg-primary font-black text-gray-900 p-1 px-3 rounded-md text-sm 
+    }
+}
