@@ -25,7 +25,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://blog-preview-kappa-one.vercel.app/)
+- Live Site URL: [Vercel](https://blog-preview-kappa-one.vercel.app/)
 
 ## My process
 
